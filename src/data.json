@@ -1,0 +1,16 @@
+{
+    "imgs": [
+        [
+          {
+            "id": "1",
+            "src": "/jessie/img1/img1.jpg",
+            "carousel": true
+          },
+          {
+            "id": "2",
+            "src": "/jessie/img2/img1.jpg",
+            "carousel": false
+          }
+        ]
+      ]
+}
